@@ -70,6 +70,13 @@ ROS 2 • Gazebo • RViz • Navigation2 • SLAM
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MO-NASSER9&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&langs=python,c,cpp" />
+</p>
+
+---
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=dark&hide_border=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=dark&hide_border=true" />
