@@ -1,10 +1,10 @@
 <h1 align="center">Mohamed Nasser</h1>
 <p align="center">
-  AI Engineer • Mechatronics Engineer • ROS 2 & Autonomous Robotics
+  AI Engineer • Mechatronics Engineer • Robotics & Computer Vision
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=780&lines=AI+Engineer;Mechatronics+Engineer;ROS+2+Autonomous+Delivery+Robot;Computer+Vision+%7C+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=AI+Engineer;Mechatronics+Engineer;Computer+Vision;Deep+Learning;Robotics+%26+AI" />
 </p>
 
 <p align="center">
@@ -26,9 +26,10 @@
 ---
 
 ### Focus
-- ROS 2 Autonomous Delivery Robot (Graduation Project)
-- Computer Vision • Deep Learning • Data Analysis
-- Robotics Integration (Nav2 • SLAM • TF • URDF • RViz)
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Deep Learning
+- Robotics Systems & Intelligent Automation
+- Data Analysis & Model Development
 
 ### Stack
 <p>
