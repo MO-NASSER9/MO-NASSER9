@@ -39,11 +39,19 @@
 
 #### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+  <img height="40" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img height="40" src="https://cdn.simpleicons.org/pytorch/EE4C2C" />
+  <img height="40" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
+  <img height="40" src="https://cdn.simpleicons.org/opencv/5C3EE8" />
 </p>
 
-**AI Platforms & Frameworks:**  
-Hugging Face • Transformers • CNNs • Transfer Learning • Model Fine-tuning
+**Libraries & Tools:**  
+MediaPipe • NumPy • Pandas • Matplotlib • Scikit-learn  
+
+**Concepts:**  
+Transformers • CNNs • Transfer Learning • Model Fine-tuning  
+
+---
 
 #### Robotics & Systems
 <p>
@@ -51,7 +59,9 @@ Hugging Face • Transformers • CNNs • Transfer Learning • Model Fine-tuni
 </p>
 
 **Robotics Frameworks & Simulation:**  
-ROS 2 • Gazebo • RViz • Navigation2 • SLAM
+ROS 2 • Gazebo • RViz • Navigation2 • SLAM  
+
+---
 
 #### Development Tools
 <p>
