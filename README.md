@@ -1,4 +1,5 @@
 <h1 align="center">Mohamed Nasser</h1>
+
 <p align="center">
   AI Engineer • Mechatronics Engineer • Robotics & Computer Vision
 </p>
@@ -20,16 +21,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0A66C2" />
+  <img src="https://komarev.com/ghpvc/?username=MO-NASSER9&style=flat&color=0A66C2" />
 </p>
 
 ---
 
 ### Focus
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Deep Learning
-- Robotics Systems & Intelligent Automation
-- Data Analysis & Model Development
+- Artificial Intelligence & Machine Learning  
+- Computer Vision & Deep Learning  
+- Robotics Systems & Intelligent Automation  
+- Data Analysis & Model Development  
 
 ### Stack
 <p>
@@ -37,6 +38,6 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=dark&hide_border=true" />
 </p>
