@@ -27,15 +27,34 @@
 ---
 
 ### Focus
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Deep Learning  
-- Robotics Systems & Intelligent Automation  
-- Data Analysis & Model Development  
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Deep Learning
+- Robotics Systems & Intelligent Automation
+- Data Analysis & Model Development
+
+---
 
 ### Stack
+
+#### AI & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,docker,opencv,tensorflow,pytorch,sklearn,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
 </p>
+
+#### Robotics & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,linux,docker,arduino,raspberrypi" />
+</p>
+
+#### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,bash,git,github" />
+</p>
+
+**Robotics Frameworks & Simulation:**  
+ROS 2 • Gazebo • RViz • Navigation2 • SLAM
+
+---
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=dark&hide_border=true" />
