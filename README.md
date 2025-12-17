@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=AI+Engineer;Mechatronics+Engineer;Computer+Vision;Deep+Learning;Robotics+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=AI+Engineer;Machine+Learning;Computer+Vision;Deep+Learning;Robotics+%26+AI" />
 </p>
 
 <p align="center">
@@ -27,32 +27,36 @@
 ---
 
 ### Focus
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Deep Learning
-- Robotics Systems & Intelligent Automation
-- Data Analysis & Model Development
+- Artificial Intelligence & Machine Learning  
+- Deep Learning & Neural Networks  
+- Computer Vision & AI Inference  
+- Robotics Systems & Intelligent Automation  
+- Data Analysis & Model Development  
 
 ---
 
 ### Stack
 
-#### AI & Data
+#### AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
 </p>
+
+**AI Platforms & Frameworks:**  
+Hugging Face • Transformers • CNNs • Transfer Learning • Model Fine-tuning
 
 #### Robotics & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,linux,docker,arduino,raspberrypi" />
 </p>
 
+**Robotics Frameworks & Simulation:**  
+ROS 2 • Gazebo • RViz • Navigation2 • SLAM
+
 #### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,bash,git,github" />
 </p>
-
-**Robotics Frameworks & Simulation:**  
-ROS 2 • Gazebo • RViz • Navigation2 • SLAM
 
 ---
 
