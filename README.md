@@ -25,50 +25,27 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 ---
 
-## 💼 Core Expertise
+## 💡 Core Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🤖 Artificial Intelligence
-- Machine Learning & Deep Learning
-- Neural Network Architecture
-- Model Optimization & Fine-tuning
-- Transfer Learning & Deployment
-
-</td>
-<td width="50%" valign="top">
+Machine Learning • Deep Learning • Neural Networks • Transfer Learning  
+Model Optimization • GANs • Multi-Agent Systems • AI Deployment
 
 ### 👁️ Computer Vision
-- Object Detection & Tracking
-- Image Segmentation & Classification
-- Pose Estimation & Recognition
-- Real-time Video Processing
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Object Detection & Tracking • Image Segmentation • Pose Estimation  
+Real-time Video Processing • Visual Recognition • Medical Imaging
 
 ### 🦾 Robotics & Automation
-- ROS 2 Development & Integration
-- SLAM & Autonomous Navigation
-- Sensor Fusion & Motion Planning
-- Embedded Systems Programming
-
-</td>
-<td width="50%" valign="top">
+ROS 2 Development • SLAM & Navigation • Sensor Fusion  
+Motion Planning • Autonomous Systems • Embedded Programming
 
 ### 📊 Data Science
-- Data Analysis & Visualization
-- Statistical Modeling & Analytics
-- Feature Engineering & Selection
-- Predictive Modeling
+Data Analysis & Visualization • Statistical Modeling  
+Feature Engineering • Predictive Analytics • Model Evaluation
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -88,18 +65,27 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### Specialized AI Techniques
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-FF6B9D?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![Multi Agent](https://img.shields.io/badge/Multi_Agent_Systems-9C27B0?style=for-the-badge)
 
 ### Robotics & Hardware
 ![ROS](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -122,18 +108,29 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ## 🎯 Current Focus
 
 <div align="center">
-
-| 💡 Computer Vision | 🧠 Deep Learning |
-|:-----------------:|:----------------:|
-| Real-time Object Detection | Model Optimization |
-| Medical Image Analysis | Transfer Learning |
-| Autonomous Systems | Neural Architecture |
-
-| 🦾 Robotics | 🔬 Research |
-|:----------:|:----------:|
-| ROS 2 Development | AI Applications |
-| SLAM Navigation | Innovation Projects |
-| Sensor Fusion | Automation Solutions |
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#FFFFFF','primaryBorderColor':'#00D9FF','lineColor':'#4169E1','secondaryColor':'#FF1493','tertiaryColor':'#32CD32','noteBkgColor':'#0D1117','noteTextColor':'#FFFFFF','noteBorderColor':'#00D9FF'}}}%%
+mindmap
+  root((🚀 AI Innovation))
+    💡 Computer Vision
+      🎯 Real-time Detection
+      🏥 Medical Imaging
+      🤖 Autonomous Systems
+    🧠 Deep Learning
+      ⚡ Model Optimization
+      🔄 Transfer Learning
+      🏗️ Neural Architecture
+      🎨 GANs
+    🦾 Robotics
+      📡 ROS 2 Projects
+      🗺️ SLAM Navigation
+      🔗 Sensor Fusion
+    🔬 Research
+      🚀 AI Applications
+      🤝 Multi-Agent Systems
+      ⚙️ Automation
+      💎 Innovation
+```
 
 </div>
 
@@ -143,7 +140,7 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 <div align="center">
 
-### Let's collaborate and build something amazing together!
+### 💬 Let's collaborate and build something amazing together!
 
 📧 **mohamed.bn.nasser2001@gmail.com** • 📱 **+20 102 765 2773**
 
