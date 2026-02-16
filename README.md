@@ -120,18 +120,6 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=MO-NASSER9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 ```mermaid
 mindmap
