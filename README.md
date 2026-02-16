@@ -133,31 +133,34 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ---
 
 ## 🎯 Current Focus
+
 ```mermaid
 mindmap
-  root((AI Innovation))
-    Computer Vision
+  root((AI Innovation)):::root
+    Computer Vision:::green
       Real-time Detection
       Medical Imaging
       Autonomous Systems
-    Deep Learning
+    Deep Learning:::purple
       Model Optimization
       Transfer Learning
       Neural Architecture
       GANs
-    Robotics
+    Robotics:::cyan
       ROS 2 Projects
       SLAM Navigation
       Sensor Fusion
-    Research
+    Research:::orange
       AI Applications
       Multi-Agent Systems
       Automation
       Innovation
-```
 
----
-
+classDef root fill:#87CEFA,stroke:#333,stroke-width:4px,color:#000
+classDef green fill:#98FB98,stroke:#228B22,stroke-width:2px,color:#000
+classDef purple fill:#E6E6FA,stroke:#9932CC,stroke-width:2px,color:#000
+classDef cyan fill:#E0FFFF,stroke:#008B8B,stroke-width:2px,color:#000
+classDef orange fill:#FFE4B5,stroke:#FF8C00,stroke-width:2px,color:#000
 ## 📫 Let's Connect!
 
 <div align="center">
