@@ -2,17 +2,18 @@
 
 # 👨‍💻 Mohamed Nasser
 
-### AI Engineer | Mechatronics Engineer | Robotics & Computer Vision Specialist
+### AI Engineer | Mechatronics Specialist | Robotics & Computer Vision Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Computer+Vision+Expert;Deep+Learning+Enthusiast;Robotics+%26+Automation;Transforming+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Computer+Vision+Developer;Deep+Learning+Enthusiast;Robotics+%26+Automation;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logoColor=white)](https://mo-nasser9.github.io/)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_CV-FF6B6B?style=for-the-badge&logoColor=white)](https://flowcv.com/resume/8vsebds15gjq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasser-7857702b2/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.bn.nasser2001@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027652773)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MO-NASSER9&style=for-the-badge&color=00D9FF)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://mo-nasser9.github.io/)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge)](https://flowcv.com/resume/8vsebds15gjq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasser-7857702b2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.bn.nasser2001@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MO-NASSER9&style=flat-square&color=00D9FF)
 
 </div>
 
@@ -20,119 +21,99 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pushing the boundaries of intelligent systems. With expertise spanning **Computer Vision**, **Deep Learning**, and **Robotics**, I transform complex challenges into elegant, AI-driven solutions.
+I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pushing the boundaries of intelligent systems. With expertise in **Computer Vision**, **Deep Learning**, and **Robotics**, I transform complex challenges into elegant, AI-driven solutions.
 
 ---
 
-## 💡 Core Expertise
+## 💼 Core Expertise
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-00D9FF?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Expert-00D9FF?style=flat-square&logo=pytorch&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-Advanced-00D9FF?style=flat-square)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-Advanced-00D9FF?style=flat-square)
+- Machine Learning & Deep Learning
+- Neural Network Architecture
+- Model Optimization & Fine-tuning
+- Transfer Learning & Deployment
+
+</td>
+<td width="50%" valign="top">
 
 ### 👁️ Computer Vision
-![Object Detection](https://img.shields.io/badge/Object_Detection-Expert-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Image Segmentation](https://img.shields.io/badge/Segmentation-Advanced-5C3EE8?style=flat-square)
-![Pose Estimation](https://img.shields.io/badge/Pose_Estimation-Advanced-5C3EE8?style=flat-square)
-![Video Processing](https://img.shields.io/badge/Video_Processing-Expert-5C3EE8?style=flat-square)
+- Object Detection & Tracking
+- Image Segmentation & Classification
+- Pose Estimation & Recognition
+- Real-time Video Processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🦾 Robotics & Automation
-![ROS 2](https://img.shields.io/badge/ROS_2-Advanced-22314E?style=flat-square&logo=ros&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-Advanced-22314E?style=flat-square)
-![Navigation](https://img.shields.io/badge/Navigation-Expert-22314E?style=flat-square)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-Advanced-22314E?style=flat-square)
+- ROS 2 Development & Integration
+- SLAM & Autonomous Navigation
+- Sensor Fusion & Motion Planning
+- Embedded Systems Programming
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Data Science
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Expert-FF6B6B?style=flat-square&logo=pandas&logoColor=white)
-![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-Advanced-FF6B6B?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-Expert-FF6B6B?style=flat-square)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-Advanced-FF6B6B?style=flat-square)
+- Data Analysis & Visualization
+- Statistical Modeling & Analytics
+- Feature Engineering & Selection
+- Predictive Modeling
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
-  <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
-  <img height="48" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" />
-  <img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<div align="center">
+### Robotics & Hardware
+![ROS](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-Expert-00FFFF?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Advanced-0097A7?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-</div>
-
-### Robotics & Embedded Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,linux,arduino,raspberrypi" alt="ROS, C++, Linux, Arduino, Raspberry Pi" />
-</p>
-
-<div align="center">
-
-![ROS 2](https://img.shields.io/badge/ROS_2-Advanced-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-Advanced-FF6B00?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Intermediate-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-Advanced-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</div>
-
-### Programming & Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,docker,linux,vscode" alt="Development Tools" />
-</p>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=MO-NASSER9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=MO-NASSER9&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -142,67 +123,41 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 <div align="center">
 
-### 🚀 Building the Future with AI
+| 💡 Computer Vision | 🧠 Deep Learning |
+|:-----------------:|:----------------:|
+| Real-time Object Detection | Model Optimization |
+| Medical Image Analysis | Transfer Learning |
+| Autonomous Systems | Neural Architecture |
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 💡 Computer Vision
-🎯 Real-time Object Detection  
-🏥 Medical Image Analysis  
-🤖 Autonomous Vehicle Systems  
-📹 Video Analytics & Processing
-
-</td>
-<td width="50%" align="center">
-
-#### 🧠 Deep Learning
-⚡ Neural Network Optimization  
-🔄 Advanced Transfer Learning  
-🏗️ Custom Architecture Design  
-📊 Model Performance Tuning
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-#### 🦾 Robotics Engineering
-📡 ROS 2 Development  
-🗺️ SLAM & Navigation Systems  
-🔗 Multi-Sensor Fusion  
-🎮 Motion Planning & Control
-
-</td>
-<td width="50%" align="center">
-
-#### 🔬 Research & Innovation
-🚀 AI Application Development  
-⚙️ Intelligent Automation  
-💎 Cutting-edge Solutions  
-🌟 Technology Innovation
-
-</td>
-</tr>
-</table>
+| 🦾 Robotics | 🔬 Research |
+|:----------:|:----------:|
+| ROS 2 Development | AI Applications |
+| SLAM Navigation | Innovation Projects |
+| Sensor Fusion | Automation Solutions |
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Get in Touch
 
 <div align="center">
 
-### 💬 I'm always open to interesting conversations and collaboration opportunities!
+### Let's collaborate and build something amazing together!
 
-📧 **Email:** mohamed.bn.nasser2001@gmail.com  
-📱 **Phone:** +20 102 765 2773
+📧 **mohamed.bn.nasser2001@gmail.com** • 📱 **+20 102 765 2773**
 
 <br>
 
-**🌟 If you like my work, consider giving a star to my repositories! 🌟**
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nasser-7857702b2/)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027652773)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mo-nasser9.github.io/)
+
+<br>
+
+💡 **Open to opportunities in AI, Computer Vision, and Robotics**
+
+⭐ **If you find my work interesting, consider starring my repositories!**
 
 </div>
 
@@ -210,8 +165,8 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 <div align="center">
 
-**💻 "Code is poetry written in logic" 💻**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
+**💻 "Transforming ideas into intelligent solutions" 💻**
 
 </div>
