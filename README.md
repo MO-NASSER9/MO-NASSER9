@@ -121,29 +121,10 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 </div>
 
 ## 🎯 Current Focus
-```mermaid
-mindmap
-  root((AI Innovation))
-    Computer Vision
-      Real-time Detection
-      Medical Imaging
-      Autonomous Systems
-    Deep Learning
-      Model Optimization
-      Transfer Learning
-      Neural Architecture
-      GANs
-    Robotics
-      ROS 2 Projects
-      SLAM Navigation
-      Sensor Fusion
-    Research
-      AI Applications
-      Multi-Agent Systems
-      Automation
-      Innovation
-```
 
+<div align="center">
+  <img src="images/current-focus-mindmap.png" alt="Current Focus Mindmap" width="1000"/>
+</div>
 ---
 
 ## 📫 Let's Connect!
