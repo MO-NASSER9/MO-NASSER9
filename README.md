@@ -141,27 +141,51 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ## 🎯 Current Focus
 
 <div align="center">
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e','background':'#0D1117','mainBkg':'#1a1a2e','secondBkg':'#16213e','tertiaryBkg':'#0f3460','textColor':'#ffffff','nodeBorder':'#00D9FF','clusterBkg':'#1a1a2e','clusterBorder':'#00D9FF','fontSize':'16px'}}}%%
-mindmap
-  root((🚀 AI Innovation))
-    💡 Computer Vision
-      🎯 Real-time Detection
-      🏥 Medical Imaging
-      🤖 Autonomous Systems
-    🧠 Deep Learning
-      ⚡ Model Optimization
-      🔄 Transfer Learning
-      🏗️ Neural Architecture
-    🦾 Robotics
-      📡 ROS 2 Projects
-      🗺️ SLAM Navigation
-      🔗 Sensor Fusion
-    🔬 Research
-      🚀 AI Applications
-      ⚙️ Automation
-      💎 Innovation
-```
+
+### 🚀 Building the Future with AI
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 💡 Computer Vision
+🎯 Real-time Object Detection  
+🏥 Medical Image Analysis  
+🤖 Autonomous Vehicle Systems  
+📹 Video Analytics & Processing
+
+</td>
+<td width="50%" align="center">
+
+#### 🧠 Deep Learning
+⚡ Neural Network Optimization  
+🔄 Advanced Transfer Learning  
+🏗️ Custom Architecture Design  
+📊 Model Performance Tuning
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+#### 🦾 Robotics Engineering
+📡 ROS 2 Development  
+🗺️ SLAM & Navigation Systems  
+🔗 Multi-Sensor Fusion  
+🎮 Motion Planning & Control
+
+</td>
+<td width="50%" align="center">
+
+#### 🔬 Research & Innovation
+🚀 AI Application Development  
+⚙️ Intelligent Automation  
+💎 Cutting-edge Solutions  
+🌟 Technology Innovation
+
+</td>
+</tr>
+</table>
 
 </div>
 
