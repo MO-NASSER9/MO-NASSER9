@@ -123,7 +123,7 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="images/current-focus-mindmap.png" alt="Current Focus Mindmap" width="1000"/>
+  <img src="current-focus-mindmap.png" alt="Current Focus Mindmap" width="1000"/>
 </div>
 ---
 
