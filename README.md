@@ -106,50 +106,28 @@ Feature Engineering • Predictive Analytics • Model Evaluation
 ---
 
 ## 🎯 Current Focus
-
-<div align="center">
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 
-  'primaryColor':'#00D9FF',
-  'primaryTextColor':'#ffffff',
-  'primaryBorderColor':'#00D9FF',
-  'lineColor':'#00D9FF',
-  'secondaryColor':'#1a1a2e',
-  'tertiaryColor':'#16213e',
-  'background':'#0d1117',
-  'mainBkg':'#161b22',
-  'secondBkg':'#0d1117',
-  'tertiaryBkg':'#161b22',
-  'textColor':'#ffffff',
-  'nodeBorder':'#00D9FF',
-  'clusterBkg':'#161b22',
-  'clusterBorder':'#00D9FF',
-  'fontSize':'14px',
-  'nodeTextColor':'#ffffff'
-}}}%%
 mindmap
-  root((🚀 AI Innovation))
-    💡 Computer Vision
-      🎯 Real-time Detection
-      🏥 Medical Imaging
-      🤖 Autonomous Systems
-    🧠 Deep Learning
-      ⚡ Model Optimization
-      🔄 Transfer Learning
-      🏗️ Neural Architecture
-      🎨 GANs
-    🦾 Robotics
-      📡 ROS 2 Projects
-      🗺️ SLAM Navigation
-      🔗 Sensor Fusion
-    🔬 Research
-      🚀 AI Applications
-      🤝 Multi-Agent Systems
-      ⚙️ Automation
-      💎 Innovation
+  root((AI Innovation))
+    Computer Vision
+      Real-time Detection
+      Medical Imaging
+      Autonomous Systems
+    Deep Learning
+      Model Optimization
+      Transfer Learning
+      Neural Architecture
+      GANs
+    Robotics
+      ROS 2 Projects
+      SLAM Navigation
+      Sensor Fusion
+    Research
+      AI Applications
+      Multi-Agent Systems
+      Automation
+      Innovation
 ```
-
-</div>
 
 ---
 
