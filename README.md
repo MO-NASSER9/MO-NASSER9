@@ -69,41 +69,53 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 ## 🛠️ Technology Stack
 
 ### AI & Machine Learning
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
   <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
   <img height="48" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" />
   <img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" />
 </p>
 
+<div align="center">
+
 **Frameworks & Libraries:**  
-`PyTorch` `TensorFlow` `Keras` `Hugging Face Transformers` `OpenCV` `MediaPipe` `YOLO` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+`PyTorch` `TensorFlow` `Keras` `Hugging Face` `OpenCV` `MediaPipe` `YOLO` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 **Specializations:**  
 `CNNs` `RNNs` `Transformers` `GANs` `Multi-Agent Systems` `Object Detection` `Semantic Segmentation` `Pose Estimation`
 
+</div>
+
 ---
 
 ### Robotics & Embedded Systems
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ros,cpp,linux,arduino,raspberrypi" alt="ROS, C++, Linux, Arduino, Raspberry Pi" />
 </p>
 
+<div align="center">
+
 **Frameworks & Tools:**  
-`ROS 2` `Gazebo` `RViz` `Navigation2` `SLAM (Gmapping, Cartographer)` `MoveIt` `Micro-ROS`
+`ROS 2` `Gazebo` `RViz` `Navigation2` `SLAM` `MoveIt` `Micro-ROS`
 
 **Hardware:**  
-`Arduino` `Raspberry Pi` `ESP32` `NVIDIA Jetson` `Sensors (LiDAR, IMU, Camera)`
+`Arduino` `Raspberry Pi` `ESP32` `NVIDIA Jetson` `LiDAR` `IMU` `Camera Sensors`
+
+</div>
 
 ---
 
 ### Programming & Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,docker,linux,vscode" alt="Development Tools" />
 </p>
 
+<div align="center">
+
 **Languages:** `Python` `C++` `C` `Bash` `MATLAB`  
 **Tools:** `Git` `Docker` `VS Code` `Jupyter` `CMake`
+
+</div>
 
 ---
 
@@ -120,11 +132,26 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 </div>
 
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=MO-NASSER9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="current-focus-mindmap.png" alt="Current Focus Mindmap" width="1000"/>
+  
+<img src="assets/current-focus-mindmap.png" alt="Current Focus - AI Innovation Roadmap" width="900"/>
+
 </div>
+
 ---
 
 ## 📫 Let's Connect!
