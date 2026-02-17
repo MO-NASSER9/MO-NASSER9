@@ -46,16 +46,18 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 <div align="center">
 
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&cache_seconds=0" alt="Streak Stats" />
+<img width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&cache_seconds=0" alt="Streak Stats" />
 
 <br/><br/>
 
-<a href="https://github.com/MO-NASSER9">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&cache_seconds=0" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/MO-NASSER9">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/MO-NASSER9">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&cache_seconds=0" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/MO-NASSER9">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
+  </a>
+</p>
 
 </div>
 
