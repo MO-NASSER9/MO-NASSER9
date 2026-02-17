@@ -190,12 +190,6 @@ graph TD
     class GEN,LLM,DIFF,GAN,AGT,MAS gen
 ```
 
-<div align="center">
-
-[![🔍 Open Interactive Map — Zoom • Pan • Fullscreen](https://img.shields.io/badge/🔍_Open_Interactive_Map-Zoom_•_Pan_•_Fullscreen-7B68EE?style=for-the-badge&logoColor=white)](https://mo-nasser9.github.io/MO-NASSER9/)
-
-</div>
-
 ---
 
 ## 📂 Featured Projects
