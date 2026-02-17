@@ -77,6 +77,17 @@ Model Evaluation • Predictive Analytics
 
 ## 🛠️ Technology Stack
 
+### Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,docker,linux,vscode,matlab,cmake,jupyter" alt="Development Tools" />
+</p>
+
+<div align="center">
+
+`Python` `C++` `C` `Bash` `MATLAB` `Git` `Docker` `VS Code` `Jupyter` `CMake`
+
+</div>
+
 ### AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
@@ -104,29 +115,36 @@ Model Evaluation • Predictive Analytics
 
 </div>
 
-### Programming & Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,docker,linux,vscode" alt="Development Tools" />
-</p>
-
-<div align="center">
-
-`Python` `C++` `C` `Bash` `MATLAB` `Git` `Docker` `VS Code` `Jupyter` `CMake`
-
-</div>
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+### 📈 Contribution Stats
+
+<table>
+<tr>
+<td align="center">
+<h3>165</h3>
+<p>Total Contributions</p>
+<p><small>Jul 2, 2024 - Present</small></p>
+</td>
+<td align="center">
+<h3>0</h3>
+<p>Current Streak</p>
+<p><small>Feb 15</small></p>
+</td>
+<td align="center">
+<h3>8</h3>
+<p>Longest Streak</p>
+<p><small>Jan 12 - Jan 19</small></p>
+</td>
+</tr>
+</table>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="GitHub Streak" />
 
@@ -140,7 +158,7 @@ Model Evaluation • Predictive Analytics
 
 [![Learning Path Mind Map](assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png)](assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png)
 
-**Four Core Pillars of My Expertise**
+*Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
 
 </div>
 
@@ -192,7 +210,7 @@ Model Evaluation • Predictive Analytics
 
 [![AI Processing Pipeline](assets/1771299924514_image.png)](assets/1771299924514_image.png)
 
-*Real-time multi-model fusion pipeline with intelligent logging and dashboard visualization*
+*Real-time AI processing pipeline with multi-model fusion and intelligent logging*
 
 **Pipeline Components**: YOLOv8 • MediaPipe • InsightFace → Fusion Engine → CSV Logger → Analytics Dashboard & PDF Reports
 
@@ -200,7 +218,7 @@ Model Evaluation • Predictive Analytics
 
 ---
 
-## 🗂️ Featured Projects
+## 📂 Popular Repositories
 
 <div align="center">
 
@@ -233,15 +251,19 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&custom_title=Annual%20Contribution%20Graph" alt="Contribution Graph" />
+### Mohamed-Nasser's Contribution Graph
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+### 133 contributions in the last year
+
+![GitHub Contribution Grid](https://github.com/MO-NASSER9/MO-NASSER9/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🎯 Skill Proficiency
+## 🎯 Skills Visualization
 
 <div align="center">
 
@@ -251,7 +273,7 @@ Model Evaluation • Predictive Analytics
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS_2-Intermediate-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-Intermediate-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
