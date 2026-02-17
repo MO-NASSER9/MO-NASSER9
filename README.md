@@ -138,23 +138,21 @@ Model Evaluation • Predictive Analytics
 
 ---
 
-## 🗂️ Popular Repositories
+## 🎯 Learning Path
 
 <div align="center">
 
-[![Autonomous Delivery Robot](https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF)](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
+[![Learning Path](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
 
 </div>
 
 ---
 
-## 🎯 Learning Path
+## 🗂️ Popular Repositories
 
 <div align="center">
 
-> 💡 **Click on the image to zoom in**
-
-[![Learning Path](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
+[![Autonomous Delivery Robot](https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF)](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
 
 </div>
 
