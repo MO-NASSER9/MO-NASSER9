@@ -44,10 +44,19 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="Streak Stats" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE)
+
+<br/>
+
+<a href="https://github.com/MO-NASSER9">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/MO-NASSER9">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF" alt="Top Languages" />
+</a>
 
 </div>
-
 ---
 
 <div align="center">
