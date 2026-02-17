@@ -156,19 +156,31 @@ Model Evaluation • Predictive Analytics
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 Computer Vision & Deep Learning
+### 🟣 Computer Vision
 - **Object Detection**: YOLO, CNNs, DLIB
-- **Recognition**: Face Recognition, Vision Transformers
-- **Advanced Architectures**: MediaPipe, Seq2Seq, ANNs
-- **Neural Networks**: RNNs & GRUs, Transformers
+- **Recognition**: Face Recognition, MediaPipe
+- **Transformers**: Vision Transformers → ViT, Swin Transformer
+- **Learning**: Transfer Learning
 
 </td>
+<td width="50%" valign="top">
+
+### 🔵 Deep Learning
+- **Neural Networks**: ANNs, Transformers
+- **Sequential Models**: RNNs & GRUs, LSTM, Seq2Seq
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔵 Generative AI & Advanced Systems
 - **Generative Models**: Diffusion Models, GAN Models
 - **Language Models**: LLMs
-- **Multi-Agent Systems**: Agents, Collaborative AI
+- **Multi-Agent Systems**: Agents, Multi-Agent Systems
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
