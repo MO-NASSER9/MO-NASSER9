@@ -50,7 +50,7 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="150" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=17" alt="Tech Stack" />
 </div>
 
 ---
@@ -79,4 +79,9 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 <div align="center">
 
-###
+### 💭 Philosophy
+*"Code is poetry written in logic."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
+
+</div>
