@@ -121,70 +121,80 @@ Model Evaluation • Predictive Analytics
 
 ## 🎯 Comprehensive Learning Path
 
+```mermaid
+graph TD
+    classDef center  fill:#16182a,stroke:#7B68EE,stroke-width:3px,color:#7B68EE
+    classDef nav     fill:#161B22,stroke:#00d4aa,stroke-width:2px,color:#00d4aa
+    classDef infra   fill:#161B22,stroke:#ffd166,stroke-width:2px,color:#ffd166
+    classDef cv      fill:#161B22,stroke:#c77dff,stroke-width:2px,color:#c77dff
+    classDef dl      fill:#161B22,stroke:#4cc9f0,stroke-width:2px,color:#4cc9f0
+    classDef gen     fill:#161B22,stroke:#ff6b6b,stroke-width:2px,color:#ff6b6b
+
+    LP((Learning Path))
+
+    %% ROBOTICS INFRASTRUCTURE
+    LP --> INFRA[Robotics Infrastructure]
+    INFRA --> SIM[Simulation]
+    INFRA --> COMM[Communication]
+    SIM --> GAZ[Gazebo]
+    SIM --> RVIZ[RViz]
+    COMM --> ROS[ROS Bridge]
+    COMM --> WS[WebSockets]
+
+    %% AUTONOMOUS NAVIGATION
+    LP --> NAV[Autonomous Navigation]
+    NAV --> PP[Path Planning]
+    NAV --> LOC[Localization]
+    NAV --> OBS[Obstacle Avoidance]
+    PP --> ASTAR[A* Algorithm]
+    PP --> LOPT[Local Planner Opt]
+    LOC --> AMCL[AMCL]
+    LOC --> NAVS[Nav Stack]
+    LOC --> AMC[Adaptive Monte Carlo]
+    OBS --> DYN[Dynamic Detection]
+    OBS --> COST[Costmap Config]
+
+    %% COMPUTER VISION
+    LP --> CV[Computer Vision]
+    CV --> YOLO[YOLO]
+    CV --> CNN[CNNs]
+    CV --> DLIB[DLIB]
+    CV --> FACE[Face Recognition]
+    CV --> VIT[Vision Transformers]
+    CV --> MP[MediaPipe]
+    CV --> TL[Transfer Learning]
+    VIT --> VITB[ViT]
+    VIT --> SWIN[Swin Transformer]
+
+    %% DEEP LEARNING
+    LP --> DL[Deep Learning]
+    DL --> ANN[ANNs]
+    DL --> TR[Transformers]
+    DL --> RNN[RNNs & GRUs]
+    DL --> SEQ[Seq2Seq]
+    DL --> LSTM[LSTM]
+
+    %% GENERATIVE AI
+    LP --> GEN[Generative AI]
+    GEN --> LLM[LLMs]
+    GEN --> DIFF[Diffusion Models]
+    GEN --> GAN[GAN Models]
+    GEN --> AGT[Agents]
+    AGT --> MAS[Multi-Agent Systems]
+
+    class LP center
+    class NAV,PP,LOC,OBS,ASTAR,LOPT,AMCL,NAVS,AMC,DYN,COST nav
+    class INFRA,SIM,COMM,GAZ,RVIZ,ROS,WS infra
+    class CV,YOLO,CNN,DLIB,FACE,VIT,MP,TL,VITB,SWIN cv
+    class DL,ANN,TR,RNN,SEQ,LSTM dl
+    class GEN,LLM,DIFF,GAN,AGT,MAS gen
+```
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/main/assets/Robot_TF_Link_Hierarchy-2026-02-17-041839.png" alt="Learning Path Mind Map" width="100%"/>
-
-<br/><br/>
 
 [![🔍 Open Interactive Map — Zoom • Pan • Fullscreen](https://img.shields.io/badge/🔍_Open_Interactive_Map-Zoom_•_Pan_•_Fullscreen-7B68EE?style=for-the-badge&logoColor=white)](https://mo-nasser9.github.io/MO-NASSER9/)
 
-*Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
-
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 Autonomous Navigation
-- **Path Planning**: A* Algorithm, Local Planner Optimization
-- **Localization**: AMCL, Nav Stack, Adaptive Monte Carlo
-- **Obstacle Management**: Dynamic Detection, Avoidance Systems
-- **Configuration**: Costmap Config
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 Robotics Infrastructure
-- **Simulation**: Gazebo, RViz
-- **Communication**: ROS Bridge, WebSockets
-- **Real-time Systems**: Multi-threaded Processing
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Computer Vision
-- **Object Detection**: YOLO, CNNs, DLIB
-- **Recognition**: Face Recognition, MediaPipe
-- **Transformers**: Vision Transformers → ViT, Swin Transformer
-- **Learning**: Transfer Learning
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 Deep Learning
-- **Neural Networks**: ANNs, Transformers
-- **Sequential Models**: RNNs & GRUs, LSTM, Seq2Seq
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔵 Generative AI & Advanced Systems
-- **Generative Models**: Diffusion Models, GAN Models
-- **Language Models**: LLMs
-- **Multi-Agent Systems**: Agents, Multi-Agent Systems
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
 
 ---
 
