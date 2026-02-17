@@ -20,22 +20,22 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # الإعدادات الأساسية
-          base: "" # لا نريد عرض المعلومات الأساسية، فقط المشاريع
+          # الإعدادات الأساسية (إخفاء المعلومات الشخصية والتركيز على المشاريع)
+          base: "" 
           config_order: repositories
 
-          # إعدادات المشاريع (The Filter Logic)
+          # إعدادات المشاريع
           plugin_repositories: yes
-          plugin_repositories_featured: MO-NASSER9/Autonomous-Delivery-Robot # 1. تثبيت مشروع الروبوت
+          # تثبيت مشروع الروبوت في البداية
+          plugin_repositories_featured: MO-NASSER9/Autonomous-Delivery-Robot
           
-          # 2. ترتيب العرض: المميز أولاً، ثم الأكثر نجوماً أو حداثة
+          # الترتيب: المميز أولاً، ثم آخر ما تم تحديثه
           plugin_repositories_order: featured, updated
           
-          # 3. قائمة الاستبعاد (Blacklist)
+          # تحديد عدد المشاريع بـ 4 فقط
+          plugin_repositories_limit: 4
+
+          # قائمة الاستبعاد (تم إصلاح المسافات هنا لتعمل بشكل صحيح)
           plugin_repositories_skipped: |
             MO-NASSER9/MO-NASSER9
             MO-NASSER9/MO-NASSER9.github.io
-          
-          # شكل التصميم
-          plugin_repositories_pinned: 4  # عدد المشاريع الكلي للعرض
-          plugin_lines: 4
