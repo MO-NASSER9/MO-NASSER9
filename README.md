@@ -38,47 +38,10 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/machine-learning-from-scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=machine-learning-from-scratch&theme=tokyonight&show_owner=false&description_lines=2" alt="ML From Scratch" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/Computer_Vision_Basics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Computer_Vision_Basics&theme=tokyonight&show_owner=false&description_lines=2" alt="CV Basics" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/ADAS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=ADAS&theme=tokyonight&show_owner=false&description_lines=2" alt="ADAS" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/Football-Analysis-TactAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Football-Analysis-TactAI&theme=tokyonight&show_owner=false&description_lines=2" alt="Football Analysis" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/Machine-Learning-Roadmap-2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Machine-Learning-Roadmap-2025&theme=tokyonight&show_owner=false&description_lines=2" alt="ML Roadmap" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MO-NASSER9/MO-NASSER9">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=MO-NASSER9&theme=tokyonight&show_owner=false&description_lines=2" alt="Profile" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="github-metrics.svg" alt="Projects List" width="100%" />
 </div>
 
 ---
