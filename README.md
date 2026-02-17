@@ -50,7 +50,7 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="70" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=9" alt="Tech Stack" />
+  <img height="120" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=7" alt="Tech Stack" />
 </div>
 
 ---
