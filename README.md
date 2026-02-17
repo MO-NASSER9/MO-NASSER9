@@ -11,25 +11,25 @@
 
 <p>
 <a href="https://mo-nasser9.github.io/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=🌐%20Portfolio&height=50&fontSize=18&color=7B68EE&fontColor=ffffff&stroke=0" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-7B68EE?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://flowcv.com/resume/8vsebds15gjq" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=📄%20Resume&height=50&fontSize=18&color=FF6B6B&fontColor=ffffff&stroke=0" alt="Resume" />
+  <img src="https://img.shields.io/badge/📄_Resume-View_CV-FF6B6B?style=for-the-badge&logoColor=white" alt="Resume" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/mohamed-nasser-7857702b2/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=👔%20LinkedIn&height=50&fontSize=18&color=0A66C2&fontColor=ffffff&stroke=0" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
 <p>
 <a href="mailto:mohamed.bn.nasser2001@gmail.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=📧%20Email&height=50&fontSize=18&color=D14836&fontColor=ffffff&stroke=0" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://wa.me/201027652773" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=💬%20WhatsApp&height=50&fontSize=18&color=25D366&fontColor=ffffff&stroke=0" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_On_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 </p>
 
@@ -50,7 +50,7 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="90" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=9" alt="Tech Stack" />
+  <img height="70" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=9" alt="Tech Stack" />
 </div>
 
 ---
@@ -71,6 +71,14 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
   </a>
 </p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
