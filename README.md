@@ -73,6 +73,14 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
   <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
 </a>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
 ---
