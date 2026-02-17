@@ -35,7 +35,7 @@
 
 <br/>
 
-<img height="40" src="https://komarev.com/ghpvc/?username=MO-NASSER9&style=for-the-badge&color=7B68EE" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MO-NASSER9&style=for-the-badge&color=7B68EE" alt="Profile Views" />
 
 </div>
 
@@ -50,7 +50,7 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="120" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=7" alt="Tech Stack" />
+  <img height="65" src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,opencv,scikitlearn,ros,arduino,raspberrypi,linux,git,github,docker,bash,vscode&perline=7" alt="Tech Stack" />
 </div>
 
 ---
