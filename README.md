@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamed Nasser
+# Hi, I'm Mohamed Nasser
 ### AI Engineer | Mechatronics Specialist | Computer Vision Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Autonomous+Systems;Developing+Computer+Vision+Solutions;Deep+Learning+%26+Robotics+Enthusiast;Mechatronics+Engineer" alt="Typing SVG Main" />
@@ -88,7 +88,7 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 <div align="center">
 
 ### 💭 Philosophy
-*"Code is poetry written in logic."*
+*"Beautiful things take time."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
 
