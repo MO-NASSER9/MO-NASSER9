@@ -40,18 +40,63 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="Autonomous Delivery Robot" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/predictive-maintenance-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=predictive-maintenance-system&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="Predictive Maintenance" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Football-Analysis-TactAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Football-Analysis-TactAI&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="Football Analysis" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/ADAS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=ADAS&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="ADAS" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/machine-learning-from-scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=machine-learning-from-scratch&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="ML From Scratch" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Computer_Vision_Basics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Computer_Vision_Basics&theme=tokyonight&show_owner=false&description_lines=2&v=final_fix_2026" alt="CV Basics" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&v=final_fix_2026" alt="Streak Stats" />
 
 <br/>
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&cache_seconds=0" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&v=final_fix_2026" alt="GitHub Stats" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&v=final_fix_2026" alt="Top Languages" />
 </p>
 
 </div>
