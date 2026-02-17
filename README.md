@@ -123,13 +123,9 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png">
-  <img alt="Learning Path Mind Map" src="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png" width="100%">
-</picture>
+<img src="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png" alt="Learning Path" width="100%">
 
-**Four Core Pillars of Expertise**
+*Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
 
 </div>
 
@@ -173,24 +169,6 @@ Model Evaluation • Predictive Analytics
 </td>
 </tr>
 </table>
-
----
-
-## 🎨 AI System Architecture
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-system-architecture.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ai-system-architecture.png">
-  <img alt="AI Processing Pipeline" src="assets/ai-system-architecture.png" width="80%">
-</picture>
-
-*Real-time multi-model fusion pipeline with intelligent logging and dashboard visualization*
-
-**Pipeline**: `YOLOv8` → `MediaPipe` → `InsightFace` → `Fusion Engine` → `CSV Logger` → `Dashboard & PDF Reports`
-
-</div>
 
 ---
 
