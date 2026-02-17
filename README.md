@@ -30,54 +30,9 @@ My core competencies lie in the interdisciplinary fields of Artificial Intellige
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🤖 Artificial Intelligence**
-
-- Machine Learning
-- Deep Learning & Neural Networks
-- Transfer Learning
-- Generative Adversarial Networks (GANs)
-- Multi-Agent Systems
-- Model Optimization & AI Deployment
-
-</td>
-<td align="center" width="50%">
-
-**👁️ Computer Vision**
-
-- Object Detection & Image Segmentation
-- Pose Estimation & Video Processing
-- Visual Recognition & Object Tracking
-- Advanced Image Analysis
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**🦾 Robotics & Automation**
-
-- ROS 2 & SLAM (Simultaneous Localization and Mapping)
-- Autonomous Navigation & Motion Planning
-- Path Planning (e.g., A* Algorithm)
-- Sensor Fusion & Embedded Systems
-
-</td>
-<td align="center" width="50%">
-
-**📊 Data Science**
-
-- Data Analysis & Visualization
-- Statistical Modeling & Feature Engineering
-- Model Evaluation & Predictive Analytics
-- Data-driven Decision Making
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=ai,ml,dl,pytorch,tensorflow,opencv,ros,linux,arduino,raspberrypi,python,cpp,c,bash,matlab,git,github,docker,vscode" alt="Skills" />
+</p>
 
 </div>
 
@@ -102,7 +57,7 @@ Proficient in a diverse range of programming languages, frameworks, and tools es
   <img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" />
 </p>
 
-### Robotics & Embedded Systems
+### Robotics & Embedded
 <p>
   <img src="https://skillicons.dev/icons?i=ros,linux,arduino,raspberrypi" alt="Robotics" />
 </p>
@@ -139,41 +94,27 @@ A selection of key projects demonstrating practical application of my skills and
 
 ### 🤖 AI-Powered Systems
 
-<table>
-<tr>
-<td width="50%">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr )); gap: 20px;">
 
-#### [🤖 Autonomous Delivery Robot](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot )
-Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications. Features real-time localization, dynamic obstacle detection, and multi-sensor fusion.
+  <div style="background-color: #161B22; border: 1px solid #7B68EE; border-radius: 10px; padding: 20px; text-align: left;">
+    <h4><a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot" style="color: #7B68EE; text-decoration: none;">🤖 Autonomous Delivery Robot</a></h4>
+    <p>Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications. Features real-time localization, dynamic obstacle detection, and multi-sensor fusion.</p>
+    <p><strong>Tech Stack:</strong> <code>ROS 2</code> <code>Python</code> <code>C++</code> <code>Gazebo</code> <code>Navigation2</code> <code>SLAM</code> <code>LiDAR</code></p>
+  </div>
 
-**Tech Stack:** `ROS 2` `Python` `C++` `Gazebo` `Navigation2` `SLAM` `LiDAR`
+  <div style="background-color: #161B22; border: 1px solid #00d4aa; border-radius: 10px; padding: 20px; text-align: left;">
+    <h4><a href="https://github.com/MO-NASSER9/predictive-maintenance-system" style="color: #00d4aa; text-decoration: none;">🔧 Predictive Maintenance System</a></h4>
+    <p>AI-driven predictive maintenance using machine learning to forecast equipment failures and optimize maintenance schedules.</p>
+    <p><strong>Tech Stack:</strong> <code>Python</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>IoT Sensors</code></p>
+  </div>
 
-</td>
-<td width="50%">
+  <div style="background-color: #161B22; border: 1px solid #ffd166; border-radius: 10px; padding: 20px; text-align: left;">
+    <h4><a href="https://github.com/MO-NASSER9/Driver-Behavior-Monitoring" style="color: #ffd166; text-decoration: none;">🚗 Driver Behavior Monitoring</a></h4>
+    <p>Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring and drowsiness detection.</p>
+    <p><strong>Tech Stack:</strong> <code>OpenCV"</code> <code>YOLO</code> <code>MediaPipe</code> <code>Python</code> <code>Deep Learning</code></p>
+  </div>
 
-#### [🔧 Predictive Maintenance System](https://github.com/MO-NASSER9/predictive-maintenance-system )
-AI-driven predictive maintenance using machine learning to forecast equipment failures and optimize maintenance schedules.
-
-**Tech Stack:** `Python` `TensorFlow` `Scikit-learn` `IoT Sensors`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [🚗 Driver Behavior Monitoring](https://github.com/MO-NASSER9/Driver-Behavior-Monitoring )
-Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring and drowsiness detection.
-
-**Tech Stack:** `OpenCV` `YOLO` `MediaPipe` `Python` `Deep Learning`
-
-</td>
-<td width="50%">
-
-<!-- Add more projects here as needed -->
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
