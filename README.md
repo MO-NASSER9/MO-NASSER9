@@ -77,76 +77,43 @@ Model Evaluation • Predictive Analytics
 
 ## 🛠️ Technology Stack
 
-### Programming & Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,git,github,docker,linux,vscode,matlab,cmake,jupyter" alt="Development Tools" />
-</p>
-
 <div align="center">
 
-`Python` `C++` `C` `Bash` `MATLAB` `Git` `Docker` `VS Code` `Jupyter` `CMake`
-
-</div>
+### Programming Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,matlab" alt="Languages" />
+</p>
 
 ### AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ML Frameworks" />
   <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
   <img height="48" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" />
   <img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" />
 </p>
 
-<div align="center">
-
-`PyTorch` `TensorFlow` `Keras` `Hugging Face` `OpenCV` `MediaPipe` `YOLO` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
-
-`CNNs` `RNNs` `Transformers` `GANs` `Multi-Agent Systems` `Object Detection` `Semantic Segmentation` `Pose Estimation`
-
-</div>
-
-### Robotics & Embedded Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,linux,arduino,raspberrypi" alt="ROS, C++, Linux, Arduino, Raspberry Pi" />
+### Robotics & Embedded
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,linux,arduino,raspberrypi" alt="Robotics" />
 </p>
 
-<div align="center">
-
-`ROS 2` `Gazebo` `RViz` `Navigation2` `SLAM` `MoveIt` `Micro-ROS` `Arduino` `Raspberry Pi` `ESP32` `NVIDIA Jetson` `LiDAR` `IMU` `Camera Sensors`
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Dev Tools" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-
-### 📈 Contribution Stats
-
-<table>
-<tr>
-<td align="center">
-<h3>165</h3>
-<p>Total Contributions</p>
-<p><small>Jul 2, 2024 - Present</small></p>
-</td>
-<td align="center">
-<h3>0</h3>
-<p>Current Streak</p>
-<p><small>Feb 15</small></p>
-</td>
-<td align="center">
-<h3>8</h3>
-<p>Longest Streak</p>
-<p><small>Jan 12 - Jan 19</small></p>
-</td>
-</tr>
-</table>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" />
 
 </div>
 
@@ -156,9 +123,13 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-[![Learning Path Mind Map](assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png)](assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png">
+  <img alt="Learning Path Mind Map" src="assets/Robot_TF_Link_Hierarchy-2026-02-17-032845.png" width="100%">
+</picture>
 
-*Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
+**Four Core Pillars of Expertise**
 
 </div>
 
@@ -188,7 +159,8 @@ Model Evaluation • Predictive Analytics
 ### 🟣 Computer Vision & Deep Learning
 - **Object Detection**: YOLO, CNNs, DLIB
 - **Recognition**: Face Recognition, Vision Transformers
-- **Advanced Architectures**: MediaPipe, Seq2Seq, ANNs, RNNs & GRUs, Transformers
+- **Advanced Architectures**: MediaPipe, Seq2Seq, ANNs
+- **Neural Networks**: RNNs & GRUs, Transformers
 
 </td>
 <td width="50%" valign="top">
@@ -208,17 +180,21 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-[![AI Processing Pipeline](assets/1771299924514_image.png)](assets/1771299924514_image.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-system-architecture.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ai-system-architecture.png">
+  <img alt="AI Processing Pipeline" src="assets/ai-system-architecture.png" width="80%">
+</picture>
 
-*Real-time AI processing pipeline with multi-model fusion and intelligent logging*
+*Real-time multi-model fusion pipeline with intelligent logging and dashboard visualization*
 
-**Pipeline Components**: YOLOv8 • MediaPipe • InsightFace → Fusion Engine → CSV Logger → Analytics Dashboard & PDF Reports
+**Pipeline**: `YOLOv8` → `MediaPipe` → `InsightFace` → `Fusion Engine` → `CSV Logger` → `Dashboard & PDF Reports`
 
 </div>
 
 ---
 
-## 📂 Popular Repositories
+## 📂 Featured Projects
 
 <div align="center">
 
@@ -251,19 +227,15 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-### Mohamed-Nasser's Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&custom_title=Annual%20Contribution%20Graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-### 133 contributions in the last year
-
-![GitHub Contribution Grid](https://github.com/MO-NASSER9/MO-NASSER9/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🎯 Skills Visualization
+## 🎯 Skills Proficiency
 
 <div align="center">
 
@@ -271,7 +243,6 @@ Model Evaluation • Predictive Analytics
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-Intermediate-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -287,6 +258,6 @@ Model Evaluation • Predictive Analytics
 
 **"Code is poetry written in logic"**
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
 
 </div>
