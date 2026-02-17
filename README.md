@@ -38,7 +38,7 @@ My core competencies and technology stack encompass a wide array of tools and do
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Contribution Activity
 
 Showcasing my activity and contributions across various projects on GitHub.
 
@@ -53,36 +53,56 @@ Showcasing my activity and contributions across various projects on GitHub.
 
 ---
 
-## 📂 Featured Projects
-
-A selection of key projects demonstrating practical application of my skills and expertise.
+## 🌟 Popular Repositories
 
 <div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr )); gap: 15px; margin-top: 20px;">
 
-### 🤖 AI-Powered Systems
+    <a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background-color: #161B22; border: 1px solid #7B68EE; border-radius: 8px; padding: 15px; text-align: left; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2 );">
+        <h4 style="color: #7B68EE; margin-top: 0; margin-bottom: 10px;">🤖 Autonomous-Delivery-Robot</h4>
+        <p style="font-size: 14px; color: #CCCCCC; margin-bottom: 10px;">Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications. Features real-time localization, dynamic obstacle detection, and multi-sensor fusion</p>
+        <div style="display: flex; align-items: center; font-size: 13px; color: #AAAAAA;">
+          <span style="margin-right: 15px;">⭐ Starred</span>
+          <span>🍴 Forked</span>
+        </div>
+      </div>
+    </a>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr )); gap: 20px;">
+    <a href="https://github.com/MO-NASSER9/predictive-maintenance-system" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background-color: #161B22; border: 1px solid #00d4aa; border-radius: 8px; padding: 15px; text-align: left; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2 );">
+        <h4 style="color: #00d4aa; margin-top: 0; margin-bottom: 10px;">🔧 predictive-maintenance-system</h4>
+        <p style="font-size: 14px; color: #CCCCCC; margin-bottom: 10px;">An advanced predictive maintenance system using Python, Scikit-learn, and Streamlit </p>
+        <div style="display: flex; align-items: center; font-size: 13px; color: #AAAAAA;">
+          <span style="margin-right: 15px;">⭐ Starred</span>
+          <span>🍴 Forked</span>
+        </div>
+      </div>
+    </a>
 
-  <div style="background-color: #161B22; border: 1px solid #7B68EE; border-radius: 10px; padding: 20px; text-align: left;">
-    <h4><a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot" style="color: #7B68EE; text-decoration: none;">🤖 Autonomous Delivery Robot</a></h4>
-    <p>Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications. Features real-time localization, dynamic obstacle detection, and multi-sensor fusion.</p>
-    <p><strong>Tech Stack:</strong> <code>ROS 2</code> <code>Python</code> <code>C++</code> <code>Gazebo</code> <code>Navigation2</code> <code>SLAM</code> <code>LiDAR</code></p>
+    <a href="https://github.com/MO-NASSER9/MO-NASSER9.github.io" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background-color: #161B22; border: 1px solid #ffd166; border-radius: 8px; padding: 15px; text-align: left; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2 );">
+        <h4 style="color: #ffd166; margin-top: 0; margin-bottom: 10px;">🌐 MO-NASSER9.github.io</h4>
+        <p style="font-size: 14px; color: #CCCCCC; margin-bottom: 10px;">Personal Portfolio for Mohamed Nasser - AI & Mechatronics Engineer</p>
+        <div style="display: flex; align-items: center; font-size: 13px; color: #AAAAAA;">
+          <span style="margin-right: 15px;">⭐ Starred</span>
+          <span>🍴 Forked</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="https://github.com/MO-NASSER9/MO-NASSER9" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="background-color: #161B22; border: 1px solid #c77dff; border-radius: 8px; padding: 15px; text-align: left; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2 );">
+        <h4 style="color: #c77dff; margin-top: 0; margin-bottom: 10px;">👤 MO-NASSER9</h4>
+        <p style="font-size: 14px; color: #CCCCCC; margin-bottom: 10px;">My personal GitHub profile repository.</p>
+        <div style="display: flex; align-items: center; font-size: 13px; color: #AAAAAA;">
+          <span style="margin-right: 15px;">⭐ Starred</span>
+          <span>🍴 Forked</span>
+        </div>
+      </div>
+    </a>
+
   </div>
-
-  <div style="background-color: #161B22; border: 1px solid #00d4aa; border-radius: 10px; padding: 20px; text-align: left;">
-    <h4><a href="https://github.com/MO-NASSER9/predictive-maintenance-system" style="color: #00d4aa; text-decoration: none;">🔧 Predictive Maintenance System</a></h4>
-    <p>AI-driven predictive maintenance using machine learning to forecast equipment failures and optimize maintenance schedules.</p>
-    <p><strong>Tech Stack:</strong> <code>Python</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>IoT Sensors</code></p>
-  </div>
-
-  <div style="background-color: #161B22; border: 1px solid #ffd166; border-radius: 10px; padding: 20px; text-align: left;">
-    <h4><a href="https://github.com/MO-NASSER9/Driver-Behavior-Monitoring" style="color: #ffd166; text-decoration: none;">🚗 Driver Behavior Monitoring</a></h4>
-    <p>Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring and drowsiness detection.</p>
-    <p><strong>Tech Stack:</strong> <code>OpenCV</code> <code>YOLO</code> <code>MediaPipe</code> <code>Python</code> <code>Deep Learning</code></p>
-  </div>
-
-</div>
-
 </div>
 
 ---
