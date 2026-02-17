@@ -3,7 +3,7 @@
 # Mohamed Nasser
 ### AI Engineer | Mechatronics Specialist | Computer Vision Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Building+Intelligent+Autonomous+Systems;Developing+Computer+Vision+Solutions;Deep+Learning+%26+Robotics+Enthusiast;Mechatronics+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Autonomous+Systems;Developing+Computer+Vision+Solutions;Deep+Learning+%26+Robotics+Enthusiast;Mechatronics+Engineer" alt="Typing SVG" />
 
 <p>
 <a href="https://mo-nasser9.github.io/" target="_blank">
@@ -44,19 +44,19 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&cache_seconds=0" alt="Streak Stats" />
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&cache_seconds=0" alt="Streak Stats" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/MO-NASSER9">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&cache_seconds=0" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&cache_seconds=0" alt="GitHub Stats" />
 </a>
-
 <a href="https://github.com/MO-NASSER9">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&cache_seconds=0" alt="Top Languages" />
 </a>
 
 </div>
+
 ---
 
 <div align="center">
