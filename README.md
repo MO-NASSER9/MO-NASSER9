@@ -123,7 +123,7 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-![Learning Path](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/main/assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
+![Learning Path](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/main/assets/Robot_TF_Link_Hierarchy-2026-02-17-041839.png)
 
 *Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
 
