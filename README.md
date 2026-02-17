@@ -182,36 +182,33 @@ Model Evaluation • Predictive Analytics
 <tr>
 <td width="50%">
 
+#### [🤖 Autonomous Delivery Robot](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
+Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications. Features real-time localization, dynamic obstacle detection, and multi-sensor fusion.
+
+**Tech Stack:** `ROS 2` `Python` `C++` `Gazebo` `Navigation2` `SLAM` `LiDAR`
+
+</td>
+<td width="50%">
+
 #### [🔧 Predictive Maintenance System](https://github.com/MO-NASSER9/predictive-maintenance-system)
 AI-driven predictive maintenance using machine learning to forecast equipment failures and optimize maintenance schedules.
 
 **Tech Stack:** `Python` `TensorFlow` `Scikit-learn` `IoT Sensors`
 
 </td>
-<td width="50%">
-
-#### [🚗 Driver Behavior Monitoring](https://github.com/MO-NASSER9/Driver-Behavior-Monitoring)
-Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring.
-
-**Tech Stack:** `OpenCV` `YOLO` `MediaPipe` `Python`
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-#### [🤖 Autonomous Delivery Robot](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
-Autonomous navigation system with SLAM, path planning, and obstacle avoidance for delivery applications.
+#### [🚗 Driver Behavior Monitoring](https://github.com/MO-NASSER9/Driver-Behavior-Monitoring)
+Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring and drowsiness detection.
 
-**Tech Stack:** `ROS 2` `Python` `C++` `Gazebo` `Navigation2`
+**Tech Stack:** `OpenCV` `YOLO` `MediaPipe` `Python` `Deep Learning`
 
 </td>
 <td width="50%">
 
-#### [⚽ Football Analysis - TactAI](https://github.com/MO-NASSER9/Football-Analysis-TactAI)
-Advanced sports analytics using computer vision to analyze player movements and tactical patterns.
-
-**Tech Stack:** `YOLO` `OpenCV` `PyTorch` `Deep Learning`
+<!-- Add more projects here as needed -->
 
 </td>
 </tr>
