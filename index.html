@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Learning Path — Interactive Map</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@600;800&display=swap" rel="stylesheet"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#0a0c10;color:#e8eaf0;height:100vh;overflow:hidden;font-family:'Syne',sans-serif;}
+#canvas{width:100%;height:100vh;position:relative;overflow:hidden;cursor:default;}
+#canvas::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle,#1e2130 1px,transparent 1px);background-size:32px 32px;opacity:.3;pointer-events:none;}
+
+/* The world div contains BOTH the SVG and the node divs */
+#world{position:absolute;top:0;left:0;transform-origin:0 0;}
+
+/* SVG sits at the back inside world */
+#world svg{position:absolute;top:0;left:0;overflow:visible;pointer-events:none;}
+
+.node{
+  position:absolute;
+  padding:8px 14px;border-radius:8px;
+  border:1.5px solid #1e2130;background:#111318;
+  cursor:grab;user-select:none;white-space:nowrap;
+  font-family:'Space Mono',monospace;font-size:11px;font-weight:700;
+  transition:filter .15s;
+}
+.node:hover{filter:brightness(1.3);z-index:99;}
+.node.drag{cursor:grabbing;z-index:999;filter:brightness(1.5);}
+.node-center{
+  border-radius:50%;width:120px;height:120px;
+  display:flex;align-items:center;justify-content:center;
+  text-align:center;font-size:12px;padding:0;
+  border:2px solid #7B68EE;
+  box-shadow:0 0 30px rgba(123,104,238,.5),inset 0 0 20px rgba(123,104,238,.12);
+  background:radial-gradient(circle,#16182a,#0a0c10);color:#7B68EE;
+}
+.node-nav  {border-color:#00d4aa;color:#00d4aa;}
+.node-infra{border-color:#ffd166;color:#ffd166;}
+.node-cv   {border-color:#c77dff;color:#c77dff;}
+.node-dl   {border-color:#4cc9f0;color:#4cc9f0;}
+.node-gen  {border-color:#ff6b6b;color:#ff6b6b;}
+
+/* CONTROLS */
+.ctrl-tr{position:fixed;right:14px;top:14px;display:flex;gap:5px;z-index:300;}
+.ctrl-r{position:fixed;right:14px;top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:5px;z-index:300;}
+.ctrl-br{position:fixed;right:14px;bottom:14px;display:flex;flex-direction:column;gap:5px;align-items:center;z-index:300;}
+.btn{width:36px;height:36px;background:rgba(15,17,22,.96);border:1px solid #1e2130;border-radius:7px;color:#e8eaf0;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;position:relative;}
+.btn:hover{border-color:#7B68EE;color:#7B68EE;transform:scale(1.1);}
+.btn:active{transform:scale(.93);}
+.btn svg{width:16px;height:16px;fill:currentColor;}
+.btn::after{content:attr(data-tip);position:absolute;right:44px;background:#0a0c10;color:#e8eaf0;padding:4px 9px;border-radius:5px;font-size:10px;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .15s;border:1px solid #1e2130;font-family:'Space Mono',monospace;}
+.btn:hover::after{opacity:1;}
+.brow{display:flex;gap:5px;}
+.legend{position:fixed;left:14px;bottom:14px;background:rgba(15,17,22,.96);border:1px solid #1e2130;border-radius:9px;padding:12px 15px;z-index:300;}
+.legend h4{font-size:9px;color:#3a4060;letter-spacing:2px;margin-bottom:8px;font-family:'Space Mono',monospace;}
+.li{display:flex;align-items:center;gap:7px;font-size:10px;margin-bottom:4px;font-family:'Space Mono',monospace;}
+.dot{width:8px;height:8px;border-radius:2px;}
+.ttl{position:fixed;left:14px;top:14px;z-index:300;}
+.ttl h1{font-size:16px;font-weight:800;}
+.ttl p{font-size:9px;color:#3a4060;font-family:'Space Mono',monospace;margin-top:2px;}
+.zlbl{position:fixed;left:14px;top:50%;transform:translateY(-50%);background:rgba(15,17,22,.9);border:1px solid #1e2130;border-radius:6px;padding:6px 10px;font-family:'Space Mono',monospace;font-size:10px;color:#3a4060;z-index:300;}
+</style>
+</head>
+<body>
+<div class="ttl"><h1>Learning Path</h1><p>DRAG • SCROLL ZOOM • PAN</p></div>
+<div class="zlbl" id="zlbl">100%</div>
+<div class="legend">
+  <h4>CATEGORIES</h4>
+  <div class="li"><div class="dot" style="background:#00d4aa"></div>Autonomous Navigation</div>
+  <div class="li"><div class="dot" style="background:#ffd166"></div>Robotics Infrastructure</div>
+  <div class="li"><div class="dot" style="background:#c77dff"></div>Computer Vision</div>
+  <div class="li"><div class="dot" style="background:#4cc9f0"></div>Deep Learning</div>
+  <div class="li"><div class="dot" style="background:#ff6b6b"></div>Generative AI</div>
+</div>
+<div class="ctrl-tr">
+  <button class="btn" id="bFS"  data-tip="Fullscreen"><svg viewBox="0 0 24 24"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
+  <button class="btn" id="bFit" data-tip="Fit (F)"><svg viewBox="0 0 24 24"><path d="M3 5v4h2V5h4V3H5c-1.1 0-2 .9-2 2zm2 10H3v4c0 1.1.9 2 2 2h4v-2H5v-4zm14 4h-4v2h4c1.1 0 2-.9 2-2v-4h-2v4zm0-16h-4v2h4v4h2V5c0-1.1-.9-2-2-2z"/></svg></button>
+</div>
+<div class="ctrl-r">
+  <button class="btn" id="bZI" data-tip="Zoom In (+)"><svg viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg></button>
+  <button class="btn" id="bZO" data-tip="Zoom Out (-)"><svg viewBox="0 0 24 24"><path d="M19 13H5v-2h14v2z"/></svg></button>
+</div>
+<div class="ctrl-br">
+  <button class="btn" id="bU" data-tip="Up"><svg viewBox="0 0 24 24"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/></svg></button>
+  <div class="brow">
+    <button class="btn" id="bL" data-tip="Left"><svg viewBox="0 0 24 24"><path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6z"/></svg></button>
+    <button class="btn" id="bR" data-tip="Right"><svg viewBox="0 0 24 24"><path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6z"/></svg></button>
+  </div>
+  <button class="btn" id="bD" data-tip="Down"><svg viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg></button>
+</div>
+
+<div id="canvas">
+  <div id="world">
+    <svg id="svgLayer"></svg>
+  </div>
+</div>
+
+<script>
+// Node width/height estimates for center calculation
+const W_DEFAULT = 130; // avg node width
+const H_DEFAULT = 34;  // avg node height
+const W_CENTER  = 120;
+const H_CENTER  = 120;
+
+const NODES = [
+  // CENTER
+  {id:'center',  lbl:'Learning\nPath',         cat:'center', x:900,  y:600},
+
+  // INFRA — top center
+  {id:'infra',   lbl:'Robotics Infrastructure',cat:'infra',  x:820,  y:330},
+  {id:'sim',     lbl:'Simulation',             cat:'infra',  x:560,  y:170},
+  {id:'gazebo',  lbl:'Gazebo',                 cat:'infra',  x:400,  y:60},
+  {id:'rviz',    lbl:'RViz',                   cat:'infra',  x:590,  y:60},
+  {id:'comm',    lbl:'Communication',          cat:'infra',  x:1060, y:170},
+  {id:'rosbridge',lbl:'ROS Bridge',            cat:'infra',  x:930,  y:60},
+  {id:'websocket',lbl:'WebSockets',            cat:'infra',  x:1120, y:60},
+
+  // NAV — left
+  {id:'nav',      lbl:'Autonomous Navigation', cat:'nav',    x:480,  y:600},
+  {id:'path-plan',lbl:'Path Planning',         cat:'nav',    x:270,  y:450},
+  {id:'astar',    lbl:'A* Algorithm',          cat:'nav',    x:60,   y:380},
+  {id:'local-opt',lbl:'Local Planner Opt',     cat:'nav',    x:60,   y:470},
+  {id:'localize', lbl:'Localization',          cat:'nav',    x:270,  y:600},
+  {id:'amcl',     lbl:'AMCL',                  cat:'nav',    x:60,   y:550},
+  {id:'navstack', lbl:'Nav Stack',             cat:'nav',    x:60,   y:630},
+  {id:'amc',      lbl:'Adaptive Monte Carlo',  cat:'nav',    x:60,   y:710},
+  {id:'obstacle', lbl:'Obstacle Avoidance',    cat:'nav',    x:270,  y:760},
+  {id:'dynamic',  lbl:'Dynamic Detection',     cat:'nav',    x:60,   y:840},
+  {id:'costmap',  lbl:'Costmap Config',        cat:'nav',    x:270,  y:870},
+
+  // CV — bottom left
+  {id:'cv',       lbl:'Computer Vision',       cat:'cv',     x:640,  y:930},
+  {id:'yolo',     lbl:'YOLO',                  cat:'cv',     x:420,  y:1060},
+  {id:'cnns',     lbl:'CNNs',                  cat:'cv',     x:590,  y:1110},
+  {id:'dlib',     lbl:'DLIB',                  cat:'cv',     x:380,  y:1160},
+  {id:'face',     lbl:'Face Recognition',      cat:'cv',     x:580,  y:1200},
+  {id:'vit',          lbl:'Vision Transformers',  cat:'cv',  x:770,  y:1090},
+  {id:'vit-base',     lbl:'ViT',                  cat:'cv',  x:920,  y:1040},
+  {id:'swin',         lbl:'Swin Transformer',     cat:'cv',  x:940,  y:1140},
+  {id:'mediapipe',    lbl:'MediaPipe',            cat:'cv',  x:780,  y:990},
+  {id:'transfer-learn',lbl:'Transfer Learning',  cat:'cv',  x:600,  y:1290},
+
+  // DL — bottom right
+  {id:'dl',        lbl:'Deep Learning',        cat:'dl',     x:1160, y:930},
+  {id:'anns',      lbl:'ANNs',                 cat:'dl',     x:1020, y:1080},
+  {id:'transformers',lbl:'Transformers',       cat:'dl',     x:1180, y:1150},
+  {id:'rnns',      lbl:'RNNs & GRUs',          cat:'dl',     x:1370, y:1070},
+  {id:'seq2seq',   lbl:'Seq2Seq',              cat:'dl',     x:1360, y:970},
+  {id:'lstm',      lbl:'LSTM',                 cat:'dl',     x:1390, y:1180},
+
+  // GEN — right
+  {id:'gen',      lbl:'Generative AI',         cat:'gen',    x:1320, y:600},
+  {id:'llms',     lbl:'LLMs',                  cat:'gen',    x:1520, y:440},
+  {id:'diffusion',lbl:'Diffusion Models',      cat:'gen',    x:1530, y:540},
+  {id:'gans',     lbl:'GAN Models',            cat:'gen',    x:1530, y:640},
+  {id:'agents',   lbl:'Agents',                cat:'gen',    x:1520, y:740},
+  {id:'multiagent',lbl:'Multi-Agent Systems',  cat:'gen',    x:1490, y:840},
+];
+
+const EDGES = [
+  // center → hubs
+  ['center','infra','#7B68EE'],
+  ['center','nav',  '#7B68EE'],
+  ['center','cv',   '#7B68EE'],
+  ['center','dl',   '#7B68EE'],
+  ['center','gen',  '#7B68EE'],
+  // infra
+  ['infra','sim',       '#ffd166'],
+  ['infra','comm',      '#ffd166'],
+  ['sim',  'gazebo',    '#ffd166'],
+  ['sim',  'rviz',      '#ffd166'],
+  ['comm', 'rosbridge', '#ffd166'],
+  ['comm', 'websocket', '#ffd166'],
+  // nav
+  ['nav','path-plan', '#00d4aa'],
+  ['nav','localize',  '#00d4aa'],
+  ['nav','obstacle',  '#00d4aa'],
+  ['path-plan','astar',    '#00d4aa'],
+  ['path-plan','local-opt','#00d4aa'],
+  ['localize', 'amcl',     '#00d4aa'],
+  ['localize', 'navstack',  '#00d4aa'],
+  ['localize', 'amc',      '#00d4aa'],
+  ['obstacle', 'dynamic',  '#00d4aa'],
+  ['obstacle', 'costmap',  '#00d4aa'],
+  // cv
+  ['cv','yolo',          '#c77dff'],
+  ['cv','cnns',          '#c77dff'],
+  ['cv','dlib',          '#c77dff'],
+  ['cv','face',          '#c77dff'],
+  ['cv','vit',           '#c77dff'],
+  ['cv','mediapipe',     '#c77dff'],
+  ['cv','transfer-learn','#c77dff'],
+  ['vit','vit-base',     '#c77dff'],
+  ['vit','swin',         '#c77dff'],
+  // dl
+  ['dl','anns',         '#4cc9f0'],
+  ['dl','transformers', '#4cc9f0'],
+  ['dl','rnns',         '#4cc9f0'],
+  ['dl','seq2seq',      '#4cc9f0'],
+  ['dl','lstm',         '#4cc9f0'],
+  // gen
+  ['gen','llms',       '#ff6b6b'],
+  ['gen','diffusion',  '#ff6b6b'],
+  ['gen','gans',       '#ff6b6b'],
+  ['gen','agents',     '#ff6b6b'],
+  ['gen','multiagent', '#ff6b6b'],
+];
+
+// ─── State ────────────────────────────────────────────────────────────────────
+let px=0, py=0, sc=1;
+let panning=false, ps={x:0,y:0}, po={x:0,y:0};
+let dragId=null, dOff={x:0,y:0};
+const EL={}, DAT={};
+const world   = document.getElementById('world');
+const svgLayer= document.getElementById('svgLayer');
+const canvas  = document.getElementById('canvas');
+
+// ─── Build nodes ──────────────────────────────────────────────────────────────
+NODES.forEach(n=>{
+  DAT[n.id] = {...n};
+  const el = document.createElement('div');
+  el.className = n.cat==='center' ? 'node node-center' : `node node-${n.cat}`;
+  el.innerHTML  = n.lbl.replace('\n','<br>');
+  el.style.left = n.x + 'px';
+  el.style.top  = n.y + 'px';
+  world.appendChild(el);
+  EL[n.id] = el;
+
+  el.addEventListener('mousedown', e=>{
+    e.stopPropagation();
+    dragId = n.id;
+    const r = el.getBoundingClientRect();
+    const wr = world.getBoundingClientRect();
+    // offset within node in world coords
+    dOff = {
+      x: (e.clientX - r.left),
+      y: (e.clientY - r.top)
+    };
+    el.classList.add('drag');
+  });
+});
+
+// ─── Build SVG paths ──────────────────────────────────────────────────────────
+// KEY INSIGHT: SVG is inside #world, so paths use the SAME coordinate space as node positions
+// We just use DAT[id].x + width/2 directly — no getBoundingClientRect needed!
+const PATHS = {};
+EDGES.forEach(([f,t,color], i)=>{
+  const path = document.createElementNS('http://www.w3.org/2000/svg','path');
+  path.setAttribute('fill','none');
+  path.setAttribute('stroke', color);
+  path.setAttribute('stroke-width','1.5');
+  path.setAttribute('opacity','0.65');
+  svgLayer.appendChild(path);
+  PATHS[i] = {path, f, t};
+});
+
+function nodeW(id){ return EL[id].offsetWidth  || (id==='center'?120:130); }
+function nodeH(id){ return EL[id].offsetHeight || (id==='center'?120:34);  }
+
+function cx(id){ return DAT[id].x + nodeW(id)/2; }
+function cy(id){ return DAT[id].y + nodeH(id)/2; }
+
+function drawEdges(){
+  Object.values(PATHS).forEach(({path,f,t})=>{
+    const ax=cx(f), ay=cy(f);
+    const bx=cx(t), by=cy(t);
+    const dx=bx-ax, dy=by-ay;
+    path.setAttribute('d',
+      `M${ax},${ay} C${ax+dx*0.5},${ay} ${bx-dx*0.5},${by} ${bx},${by}`
+    );
+  });
+}
+
+// ─── Transform (pan/zoom the whole world, SVG included) ──────────────────────
+function applyT(){
+  world.style.transform = `translate(${px}px,${py}px) scale(${sc})`;
+  world.style.transformOrigin = '0 0';
+  document.getElementById('zlbl').textContent = Math.round(sc*100)+'%';
+  // edges don't need redrawing on pan/zoom since they're in the same space!
+}
+
+function fitAll(){
+  const W=canvas.clientWidth, H=canvas.clientHeight, pad=60;
+  let x0=Infinity,y0=Infinity,x1=-Infinity,y1=-Infinity;
+  NODES.forEach(n=>{
+    x0=Math.min(x0, n.x);
+    y0=Math.min(y0, n.y);
+    x1=Math.max(x1, n.x + nodeW(n.id));
+    y1=Math.max(y1, n.y + nodeH(n.id));
+  });
+  sc = Math.min((W-pad*2)/(x1-x0), (H-pad*2)/(y1-y0));
+  px = (W-(x1-x0)*sc)/2 - x0*sc;
+  py = (H-(y1-y0)*sc)/2 - y0*sc;
+  applyT();
+}
+
+// ─── Events ───────────────────────────────────────────────────────────────────
+canvas.addEventListener('mousedown', e=>{
+  if(!e.target.classList.contains('node')){
+    panning=true;
+    ps={x:e.clientX,y:e.clientY};
+    po={x:px,y:py};
+    canvas.style.cursor='grabbing';
+  }
+});
+
+document.addEventListener('mousemove', e=>{
+  if(dragId){
+    // Convert mouse position to world coordinates
+    const wx = (e.clientX - px)/sc - dOff.x;
+    const wy = (e.clientY - py)/sc - dOff.y;
+    EL[dragId].style.left = wx+'px';
+    EL[dragId].style.top  = wy+'px';
+    DAT[dragId].x = wx;
+    DAT[dragId].y = wy;
+    drawEdges(); // redraw only when dragging a node
+  } else if(panning){
+    px = po.x + (e.clientX-ps.x);
+    py = po.y + (e.clientY-ps.y);
+    applyT();
+  }
+});
+
+document.addEventListener('mouseup', ()=>{
+  if(dragId){ EL[dragId].classList.remove('drag'); dragId=null; }
+  panning=false;
+  canvas.style.cursor='default';
+});
+
+canvas.addEventListener('wheel', e=>{
+  e.preventDefault();
+  const r  = canvas.getBoundingClientRect();
+  const mx = e.clientX - r.left;
+  const my = e.clientY - r.top;
+  const d  = e.deltaY>0 ? 0.88 : 1.13;
+  const ns = Math.min(Math.max(sc*d, 0.1), 4);
+  px = mx - (mx-px)*(ns/sc);
+  py = my - (my-py)*(ns/sc);
+  sc = ns;
+  applyT();
+},{passive:false});
+
+// Buttons
+document.getElementById('bZI').onclick  = ()=>{ sc=Math.min(sc*1.2,4);  applyT(); };
+document.getElementById('bZO').onclick  = ()=>{ sc=Math.max(sc/1.2,.1); applyT(); };
+document.getElementById('bFit').onclick = fitAll;
+document.getElementById('bU').onclick   = ()=>{ py+=80; applyT(); };
+document.getElementById('bD').onclick   = ()=>{ py-=80; applyT(); };
+document.getElementById('bL').onclick   = ()=>{ px+=80; applyT(); };
+document.getElementById('bR').onclick   = ()=>{ px-=80; applyT(); };
+document.getElementById('bFS').onclick  = ()=>{
+  !document.fullscreenElement
+    ? document.documentElement.requestFullscreen()
+    : document.exitFullscreen();
+};
+
+document.addEventListener('keydown', e=>{
+  if(e.key==='+'||e.key==='=')       { sc=Math.min(sc*1.2,4); applyT(); }
+  else if(e.key==='-')               { sc=Math.max(sc/1.2,.1);applyT(); }
+  else if(e.key==='f'||e.key==='F')    fitAll();
+  else if(e.key==='ArrowUp')         { py+=80; applyT(); }
+  else if(e.key==='ArrowDown')       { py-=80; applyT(); }
+  else if(e.key==='ArrowLeft')       { px+=80; applyT(); }
+  else if(e.key==='ArrowRight')      { px-=80; applyT(); }
+});
+
+// ─── Init ─────────────────────────────────────────────────────────────────────
+setTimeout(()=>{
+  drawEdges();
+  fitAll();
+}, 100);
+</script>
+</body>
+</html>
