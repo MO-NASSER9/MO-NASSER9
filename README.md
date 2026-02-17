@@ -3,7 +3,9 @@
 # Mohamed Nasser
 ### AI Engineer | Mechatronics Specialist | Computer Vision Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Autonomous+Systems;Developing+Computer+Vision+Solutions;Deep+Learning+%26+Robotics+Enthusiast;Mechatronics+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Autonomous+Systems;Developing+Computer+Vision+Solutions;Deep+Learning+%26+Robotics+Enthusiast;Mechatronics+Engineer" alt="Typing SVG Main" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=32CD32&center=true&vCenter=true&width=800&lines=Welcome!+Glad+to+have+you+here.;Check+out+my+latest+projects+below.;Let’s+connect+and+share+ideas." alt="Typing SVG Welcome" />
 
 <p>
 <a href="https://mo-nasser9.github.io/" target="_blank">
