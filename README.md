@@ -43,7 +43,44 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Projects List" width="100%" />
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&show_owner=false&description_lines=2" alt="Autonomous Delivery Robot" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/predictive-maintenance-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=predictive-maintenance-system&theme=tokyonight&show_owner=false&description_lines=2" alt="Predictive Maintenance" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Football-Analysis-TactAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Football-Analysis-TactAI&theme=tokyonight&show_owner=false&description_lines=2" alt="Football Analysis" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/ADAS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=ADAS&theme=tokyonight&show_owner=false&description_lines=2" alt="ADAS" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/machine-learning-from-scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=machine-learning-from-scratch&theme=tokyonight&show_owner=false&description_lines=2" alt="ML From Scratch" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MO-NASSER9/Computer_Vision_Basics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Computer_Vision_Basics&theme=tokyonight&show_owner=false&description_lines=2" alt="CV Basics" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
