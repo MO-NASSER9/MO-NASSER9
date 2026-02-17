@@ -138,6 +138,18 @@ Model Evaluation • Predictive Analytics
 
 ---
 
+## 🎯 Learning Path
+
+<div align="center">
+
+[![Learning Path](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
+
+*Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
+
+</div>
+
+---
+
 ## 🎯 AI System Architecture
 
 <div align="center">
