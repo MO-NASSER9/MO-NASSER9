@@ -123,7 +123,11 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-![Learning Path](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/main/assets/Robot_TF_Link_Hierarchy-2026-02-17-041839.png)
+<img src="https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/main/assets/Robot_TF_Link_Hierarchy-2026-02-17-041839.png" alt="Learning Path Mind Map" width="100%"/>
+
+<br/><br/>
+
+[![🔍 Open Interactive Map — Zoom • Pan • Fullscreen](https://img.shields.io/badge/🔍_Open_Interactive_Map-Zoom_•_Pan_•_Fullscreen-7B68EE?style=for-the-badge&logoColor=white)](https://mo-nasser9.github.io/MO-NASSER9/)
 
 *Comprehensive roadmap spanning Robotics Infrastructure, Computer Vision, Deep Learning, and Generative AI*
 
