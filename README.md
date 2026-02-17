@@ -144,11 +144,11 @@ I'm a passionate **AI Engineer** and **Mechatronics specialist** dedicated to pu
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Learning Path
 
 <div align="center">
   
-<img src="assets/current-focus-mindmap.png" alt="Current Focus - AI Innovation Roadmap" width="900"/>
+<img src="assets/Robot TF Link Hierarchy-2026-02-17-032845.png" alt="Learning Path - AI Roadmap" width="900"/>
 
 </div>
 
