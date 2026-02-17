@@ -126,7 +126,7 @@ Model Evaluation • Predictive Analytics
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF"/>
 
@@ -138,11 +138,23 @@ Model Evaluation • Predictive Analytics
 
 ---
 
+## 🗂️ Popular Repositories
+
+<div align="center">
+
+[![Autonomous Delivery Robot](https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF)](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
+
+</div>
+
+---
+
 ## 🎯 Learning Path
 
 <div align="center">
-  
-<img src="assets/Robot TF Link Hierarchy-2026-02-17-032845.png" alt="Learning Path - AI Roadmap" width="900"/>
+
+> 💡 **Click on the image to zoom in**
+
+[![Learning Path](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
 
 </div>
 
@@ -166,7 +178,7 @@ Model Evaluation • Predictive Analytics
 ---
 
 <div align="center">
-  
+
 **"Code is poetry written in logic"**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
