@@ -138,11 +138,13 @@ Model Evaluation • Predictive Analytics
 
 ---
 
-## 🎯 Learning Path
+## 🎯 AI System Architecture
 
 <div align="center">
 
-[![Learning Path](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)](assets/Robot%20TF%20Link%20Hierarchy-2026-02-17-032845.png)
+[![AI System Architecture](assets/1771299924514_image.png)](assets/1771299924514_image.png)
+
+*Real-time AI processing pipeline with multi-model fusion and intelligent logging*
 
 </div>
 
@@ -152,7 +154,45 @@ Model Evaluation • Predictive Analytics
 
 <div align="center">
 
-[![Autonomous Delivery Robot](https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF)](https://github.com/MO-NASSER9/Autonomous-Delivery-Robot)
+<a href="https://github.com/MO-NASSER9/machine-learning-from-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=machine-learning-from-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/Machine-Learning-Roadmap-2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Machine-Learning-Roadmap-2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/Computer_Vision_Basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Computer_Vision_Basics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/ADAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=ADAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/Mohamed20384">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Mohamed20384&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/Football-Analysis-TactAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Football-Analysis-TactAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/MO-NASSER9/Autonomous-Delivery-Robot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MO-NASSER9&repo=Autonomous-Delivery-Robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-NASSER9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+![](https://raw.githubusercontent.com/MO-NASSER9/MO-NASSER9/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
