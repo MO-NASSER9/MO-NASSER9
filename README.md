@@ -31,7 +31,7 @@ My core competencies and technology stack encompass a wide array of tools and do
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,matlab,pytorch,tensorflow,huggingface,opencv,scikitlearn,ros,linux,arduino,raspberrypi,git,github,docker,vscode,ai,ml,dl,cs,ds" alt="Tech Stack & Expertise" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,matlab,pytorch,tensorflow,huggingface,opencv,scikitlearn,ros,linux,arduino,raspberrypi,git,github,docker,vscode" alt="Tech Stack & Expertise" />
 </p>
 
 </div>
