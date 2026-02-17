@@ -24,47 +24,14 @@ I am a passionate **AI Engineer** and **Mechatronics Specialist** dedicated to p
 
 ---
 
-## 💡 Core Expertise
+## 💡 Tech Stack & Core Expertise
 
-My core competencies lie in the interdisciplinary fields of Artificial Intelligence, Computer Vision, Robotics & Automation, and Data Science. I leverage a comprehensive skill set to design, develop, and deploy advanced technological solutions.
-
-<div align="center">
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ai,ml,dl,pytorch,tensorflow,opencv,ros,linux,arduino,raspberrypi,python,cpp,c,bash,matlab,git,github,docker,vscode" alt="Skills" />
-</p>
-
-</div>
-
----
-
-## 🛠️ Technology Stack
-
-Proficient in a diverse range of programming languages, frameworks, and tools essential for modern AI and robotics development.
+My core competencies and technology stack encompass a wide array of tools and domains in Artificial Intelligence, Computer Vision, Robotics & Automation, and Data Science. I leverage a comprehensive skill set to design, develop, and deploy advanced technological solutions.
 
 <div align="center">
 
-### Programming Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,matlab" alt="Languages" />
-</p>
-
-### AI & Machine Learning Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ML Frameworks" />
-  <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
-  <img height="48" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" />
-  <img height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" />
-</p>
-
-### Robotics & Embedded
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,linux,arduino,raspberrypi" alt="Robotics" />
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,matlab,pytorch,tensorflow,huggingface,opencv,scikitlearn,ros,linux,arduino,raspberrypi,git,github,docker,vscode,ai,ml,dl,cs,ds" alt="Tech Stack & Expertise" />
 </p>
 
 </div>
@@ -111,29 +78,10 @@ A selection of key projects demonstrating practical application of my skills and
   <div style="background-color: #161B22; border: 1px solid #ffd166; border-radius: 10px; padding: 20px; text-align: left;">
     <h4><a href="https://github.com/MO-NASSER9/Driver-Behavior-Monitoring" style="color: #ffd166; text-decoration: none;">🚗 Driver Behavior Monitoring</a></h4>
     <p>Real-time driver behavior analysis system using computer vision and deep learning for safety monitoring and drowsiness detection.</p>
-    <p><strong>Tech Stack:</strong> <code>OpenCV"</code> <code>YOLO</code> <code>MediaPipe</code> <code>Python</code> <code>Deep Learning</code></p>
+    <p><strong>Tech Stack:</strong> <code>OpenCV</code> <code>YOLO</code> <code>MediaPipe</code> <code>Python</code> <code>Deep Learning</code></p>
   </div>
 
 </div>
-
-</div>
-
----
-
-## 🎯 Skills Proficiency
-
-An overview of my proficiency levels in key technologies and programming languages.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white )
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white )
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white )
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white )
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white )
-![ROS 2](https://img.shields.io/badge/ROS_2-Intermediate-22314E?style=for-the-badge&logo=ros&logoColor=white )
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black )
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white )
 
 </div>
 
