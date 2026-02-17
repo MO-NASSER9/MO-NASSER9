@@ -44,15 +44,13 @@ I am a dedicated **Mechatronics Engineer** and **AI Specialist** with a strong f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="Streak Stats" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MO-NASSER9&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&v=public_fix_now)
 
 <br/>
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&v=3" alt="GitHub Stats" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&v=3" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MO-NASSER9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=FFFFFF&rank_icon=github&v=public_fix_now)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MO-NASSER9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=FFFFFF&v=public_fix_now)
 
 </div>
 
