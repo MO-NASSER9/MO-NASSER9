@@ -1,13 +1,8 @@
 name: Projects Updater
-
 on:
-  # يعمل التحديث كل يوم الساعة 12 منتصف الليل
   schedule: [{cron: "0 0 * * *"}]
-  # يسمح لك بتشغيله يدوياً للتجربة
   workflow_dispatch:
-  # يعمل عند عمل Push للملف الرئيسي
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -16,26 +11,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # اسم الملف الذي سيتم إنتاجه
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # الإعدادات الأساسية (إخفاء المعلومات الشخصية والتركيز على المشاريع)
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: "" 
           config_order: repositories
-
-          # إعدادات المشاريع
           plugin_repositories: yes
-          # تثبيت مشروع الروبوت في البداية
           plugin_repositories_featured: MO-NASSER9/Autonomous-Delivery-Robot
-          
-          # الترتيب: المميز أولاً، ثم آخر ما تم تحديثه
           plugin_repositories_order: featured, updated
-          
-          # تحديد عدد المشاريع بـ 4 فقط
           plugin_repositories_limit: 4
-
-          # قائمة الاستبعاد (تم إصلاح المسافات هنا لتعمل بشكل صحيح)
           plugin_repositories_skipped: |
             MO-NASSER9/MO-NASSER9
             MO-NASSER9/MO-NASSER9.github.io
